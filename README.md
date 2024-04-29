@@ -50,7 +50,7 @@ Modify the file paths (train_path and test_path) in the code to point to your da
 
 Execute the script (e.g., python dog_vs_cat.py). The script performs training and displays training progress.
 
-#### Further Exploration:
+### Further Exploration:
 
 Experiment with different hyperparameters like the number of epochs, learning rate, data augmentation techniques, and optimizer settings to potentially improve model performance.
 
